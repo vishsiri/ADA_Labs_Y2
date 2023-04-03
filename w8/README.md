@@ -1,3 +1,7 @@
+//64050229
+//Vish Siriwatana
+//THIS CODE WRITE IN GOLANG
+
 **The algorithm in this code aims to find all possible binary solutions to a problem and evaluate them to see if they satisfy a given condition.**
 
 > **Here is the high-level description of the algorithm:**
