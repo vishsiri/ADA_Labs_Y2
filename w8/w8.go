@@ -1,3 +1,5 @@
+// Vish Siriwatana
+// 64050229
 package main
 
 import "fmt"
